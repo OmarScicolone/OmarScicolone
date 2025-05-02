@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @OmarScicolone
-- 🎓 I have a degree in Computer Engineering at the Polytechnic of Turin.
-- 📚 I am currently enrolled in the master's course in Computer Engineering at the Polytechnic of Turin, Cybersecurity curriculum.
+- 🎓 I have a Master Degree in Computer Engineering (Cybersecurity curriculum) at the Polytechnic of Turin.
 
 <!---
 OmarScicolone/OmarScicolone is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
